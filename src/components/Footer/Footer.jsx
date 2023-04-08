@@ -18,7 +18,7 @@ const Footer = () => {
 
           <div className="w-full sm:w-1/2">
             <p className='text-gray-300 leading-7 mt-4 sm:mt-0'>
-            DevOps doesn't 'just happen' it takes conscious effort by engineering management to change the business at all levels and in all directions. DevOps is not a destination, it is a journey and you need a guide, that's me. Let's connect and learn from each other's experiences and knowledge.            </p>
+            Development doesn't 'just happen' it takes conscious effort by engineering management to change the business at all levels and in all directions. Developments is not a destination, it is a journey and you need a guide, that's me. Let's connect and learn from each other's experiences and knowledge.            </p>
 
             <div className="flex items-center gap-4 flex-wrap md:gap-8 mt-10">
               <span className='text-gray-300 font-[600] text-[15px]'>

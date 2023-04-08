@@ -21,7 +21,7 @@ const Hero = () => {
               data-aos="fade-up"
               data-aos-duration="1500"
               className='text-headingColor font-[800] text-[1.8rem] sm:text-[40px] leading-[35px] sm:leading-[46px] mt-5'
-            >I'm Kanwal Yousuf <br/> Mern 💻 & Saas <br/> Developer  🐳 </h1>
+            >I'm Kanwal Yousuf 💻 <br/> Software Developer  🐳 </h1>
 
             {/* =================== hero left content ================*/}
             <div
@@ -46,7 +46,7 @@ const Hero = () => {
               className="flex gap-2 text-headingColor mt-12 font-[500] text-[15px] leading-7 sm:pl-14 sm:pr-10"
             >
               <span><i class="ri-apps-2-line"></i></span>
-              DevOps doesn't 'just happen' it takes conscious effort by engineering management to change the business at all levels and in all directions. DevOps is not a destination, it is a journey and you need a guide, that's me.
+              Development doesn't 'just happen' it takes conscious effort by engineering management to change the business at all levels and in all directions. DevOps is not a destination, it is a journey and you need a guide, that's me.
               Let's connect and learn from each other's experiences and knowledge.</p>
             <div className="flex items-center gap-9 mt-14">
               <span className="text-smallTextColor text-[15px] font-[600]">Follow me:</span>
