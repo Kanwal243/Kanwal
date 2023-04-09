@@ -1,6 +1,5 @@
 import React from 'react'
-import heroImg from '../../assets/images/DevOps.png'
-// import CountUp from 'react-countup/build/CountUp'
+import heroImg from '../../assets/images/DevOps.jpg'
 import CountUp from 'react-countup'
 
 const Hero = () => {
@@ -45,15 +44,15 @@ const Hero = () => {
               data-aos-delay="1500"
               className="flex gap-2 text-headingColor mt-12 font-[500] text-[15px] leading-7 sm:pl-14 sm:pr-10"
             >
-              <span><i class="ri-apps-2-line"></i></span>
-              Development doesn't 'just happen' it takes conscious effort by engineering management to change the business at all levels and in all directions. DevOps is not a destination, it is a journey and you need a guide, that's me.
+              <span><i className="ri-apps-2-line"></i></span>
+              Development doesn't 'just happen' it takes conscious effort by engineering management to change the business at all levels and in all directions. Development is not a destination, it is a journey and you need a guide, that's me.
               Let's connect and learn from each other's experiences and knowledge.</p>
             <div className="flex items-center gap-9 mt-14">
               <span className="text-smallTextColor text-[15px] font-[600]">Follow me:</span>
-              <span><a href="https://www.linkedin.com/in/kanwal-yousuf-28a5201b4/" className="text-smallTextColor text-[18px] font-[600]" ><i class="ri-linkedin-line"></i></a></span>
-              <span><a href="https://github.com/Kanwal243" className="text-smallTextColor text-[18px] font-[600]" ><i class='ri-github-fill'></i></a></span>
-              <span><a href="https://twitter.com/KanwalYousuf4" className="text-smallTextColor text-[18px] font-[600]" ><i class='ri-twitter-line'></i></a></span>
-              <span><a href="https://www.youtube.com/channel/UCdSQ28cZ92fyFqtMEKC55tg" className="text-smallTextColor text-[18px] font-[600]" ><i class='ri-youtube-line'></i></a></span>
+              <span><a href="https://www.linkedin.com/in/kanwal-yousuf-28a5201b4/" className="text-smallTextColor text-[18px] font-[600]" ><i className="ri-linkedin-line"></i></a></span>
+              <span><a href="https://github.com/Kanwal243" className="text-smallTextColor text-[18px] font-[600]" ><i className='ri-github-fill'></i></a></span>
+              <span><a href="https://twitter.com/KanwalYousuf4" className="text-smallTextColor text-[18px] font-[600]" ><i className='ri-twitter-line'></i></a></span>
+              <span><a href="https://www.youtube.com/channel/UCdSQ28cZ92fyFqtMEKC55tg" className="text-smallTextColor text-[18px] font-[600]" ><i className='ri-youtube-line'></i></a></span>
 
             </div>
           </div>

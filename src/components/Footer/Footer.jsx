@@ -11,7 +11,7 @@ const Footer = () => {
               Do your want to make beautiful products?</h2>
             <a href="#contact">
               <button className='bg-primaryColor text-white font-[500] flex items-center gap-2 hover:bg-smallTextColor ease-in duration-300 py-2 px-4 rounded-[8px]'>
-                <i class="ri-mail-line"></i>              Hire me
+                <i className="ri-mail-line"></i>              Hire me
               </button>
             </a>
           </div>
@@ -29,7 +29,7 @@ const Footer = () => {
                 <a href="https://github.com/Kanwal243"
                   className='text-gray-300 font-[500] text-[18px]'
                 >
-                  <i class='ri-github-line'></i>
+                  <i className='ri-github-line'></i>
                 </a>
               </span>
 
@@ -38,7 +38,7 @@ const Footer = () => {
                 <a href="https://www.linkedin.com/in/kanwal-yousuf-28a5201b4/"
                   className='text-gray-300 font-[500] text-[18px]'
                 >
-                  <i class='ri-linkedin-line'></i>
+                  <i className='ri-linkedin-line'></i>
                 </a>
               </span>
 
@@ -46,7 +46,7 @@ const Footer = () => {
                 <a href="https://twitter.com/KanwalYousuf4"
                   className='text-gray-300 font-[500] text-[18px]'
                 >
-                  <i class='ri-twitter-line'></i>
+                  <i className='ri-twitter-line'></i>
                 </a>
               </span>
 
@@ -55,7 +55,7 @@ const Footer = () => {
                 <a href="https://www.youtube.com/channel/UCdSQ28cZ92fyFqtMEKC55tg"
                   className='text-gray-300 font-[500] text-[18px]'
                 >
-                  <i class='ri-youtube-line'></i>
+                  <i className='ri-youtube-line'></i>
                 </a>
               </span>
             </div>
